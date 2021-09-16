@@ -2,7 +2,8 @@
 # I'm Undergrad,Developer💻
 ### 🌱 I’m currently pursuing Computer Science Engg at Thapar Institute of Engg. & Tech.
 ### working on Web Dev and python..
-![](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2017/06/C-image.jpeg?itok=GIR_nnS1 )
+<!-- ![](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2017/06/C-image.jpeg?itok=GIR_nnS1 ) -->
+<img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2017/06/C-image.jpeg?itok=GIR_nnS1" alt="C++ img" width=100 height=100>
 
 <!--
 **jasbatra19/jasbatra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
