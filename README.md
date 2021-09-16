@@ -1,13 +1,16 @@
-### Hi there 👋
-### 🔭 I’m currently working on *WebDevelopment *python 
-### 👯 I’m looking to collaborate on *AppDevelopment (flutter) *C/C++ projects 
+### Hi there.. Lets keep it simple :)
+# I'm Undergrad,Developer💻
+### 🌱 I’m currently pursuing Computer Science Engg at Thapar Institute of Engg. & Tech.
+### working on Web Dev and python..
+ ![](https://www.pngwing.com/en/free-png-nqckg)
+
 <!--
 **jasbatra19/jasbatra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
