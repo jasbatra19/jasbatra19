@@ -2,7 +2,7 @@
 # I'm Undergrad,Developer💻
 ### 🌱 I’m currently pursuing Computer Science Engg at Thapar Institute of Engg. & Tech.
 ### working on Web Dev and python..
- ![](https://www.pngwing.com/en/free-png-nqckg)
+ ![Alt Text](https://www.pngwing.com/en/free-png-nqckg)
 
 <!--
 **jasbatra19/jasbatra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
