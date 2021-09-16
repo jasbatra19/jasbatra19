@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-## LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
+ LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
 
 
 
