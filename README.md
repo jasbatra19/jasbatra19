@@ -19,6 +19,7 @@
 <br>
 <br>
 
+![Jasmine's github stats](https://github-readme-stats.vercel.app/api?username=jasbatra19)
  
  LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
 
