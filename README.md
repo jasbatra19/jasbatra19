@@ -2,7 +2,7 @@
 # I'm Undergrad,Developer
 ### 🌱 I’m currently pursuing Computer Science Engg at Thapar Institute of Engg. & Tech.
 ### 💻 working on Web Dev and python..
-<!-- ![](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2017/06/C-image.jpeg?itok=GIR_nnS1 ) -->
+![](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2017/06/C-image.jpeg?itok=GIR_nnS1 )
 ## Skills:
 <div>
 <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2017/06/C-image.jpeg?itok=GIR_nnS1" alt="C++ img" width=100 height=100>  
@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbatra19)](https://github.com/jasbatra19/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbatra19)](https://github.com/jasbatra19/github-readme-stats)
  
  LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
 
