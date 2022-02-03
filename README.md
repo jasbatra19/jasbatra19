@@ -21,6 +21,9 @@
 <br>
 
 ![Jasmine's github stats](https://github-readme-stats.vercel.app/api?username=jasbatra19)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<jasbatra19>&theme=<dark>" />
  
  LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
 
