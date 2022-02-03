@@ -12,6 +12,8 @@
 <br>
 <br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbatra19)](https://github.com/jasbatra19/github-readme-stats)
+ 
  LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
 
 
