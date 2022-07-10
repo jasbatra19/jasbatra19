@@ -24,7 +24,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasbatra19" />
- 
+<a href='https://www.linkedin.com/in/jasmine-batra-a11ba41bb/'><img src='https://www.facebook.com/LinkedIn/' ></a>
+
  LinkedIn: https://www.linkedin.com/in/jasmine-batra-a11ba41bb/
 
 
