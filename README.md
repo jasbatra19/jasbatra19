@@ -24,7 +24,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasbatra19" />
-<a href='https://www.linkedin.com/in/jasmine-batra-a11ba41bb/'><img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' height=20 width=20></a>
+<a href='https://www.linkedin.com/in/jasmine-batra-a11ba41bb/'><img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' height=30 width=30></a>
 
 
 
