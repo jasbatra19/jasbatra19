@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
 ### Lets keep it simple :)
 # I'm Undergrad,Developer
 ### 🌱 I’m currently pursuing Computer Science Engg at Thapar Institute of Engg. & Tech.
