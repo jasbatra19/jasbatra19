@@ -2,7 +2,7 @@
 ### Lets keep it simple :)
 # I'm Undergrad,Developer
 ### 🌱 I’m currently pursuing Computer Science Engg at Thapar Institute of Engg. & Tech.
-### 💻 working on Web Dev and python..
+### 💻 working on Machine Learning and Robotics Process Automation.
 
 ## Skills:
 <div>
