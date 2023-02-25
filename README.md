@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm pursuing Computer Science.<br>I'm currently working on Flutter App Development, Machine Learning.<br>Looking for help with Data Structures & Algorithms<br>Interests- Flutter App Development, Machine learning<br> I’m looking to collaborate on - Flutter App Development, Machine Learning projects, Database projects<br>For Collabs contact me : jasbatra01@gmail.com<br>Pronouns: She/Her<br>
 
-
+![Profile views](https://gpvc.arturio.dev/[jasbatra19])
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasmine-batra-a11ba41bb) 
 
