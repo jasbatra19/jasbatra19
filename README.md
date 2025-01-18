@@ -1,5 +1,5 @@
 # 💫 Hey There! Here are some facts about me :
-I'm a software engineer.<br>Strengths:Web Development, Flutter App Development, Machine Learning.<br> Data Structures & Algorithms<br>Interests- Flutter App Development, Machine learning, Web Development<br> I’m looking to collaborate on - Web Apps, Flutter App Development, Machine Learning projects, Database projects<br>For Collabs contact me : jasbatra01@gmail.com<br>Pronouns: She/Her<br>
+I'm a software engineer.<br>Strengths:Web Development, Flutter App Development, Machine Learning.<br>Interests- Flutter App Development, Machine learning, Web Development<br> I’m looking to collaborate on - Web Apps, Flutter App Development, Machine Learning projects, Database projects<br>For Collabs contact me : jasbatra01@gmail.com<br>Pronouns: She/Her<br>
 
 
 ## 🌐 Socials:
